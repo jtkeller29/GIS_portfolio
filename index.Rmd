@@ -54,4 +54,4 @@ And this one demonstrates the following:
 
 * Aggregating point data to a layer of polygons
 
-[![](thumbnails/bus_census_thumb.png)](https://jtkeller29.github.io/portfolio/fullsize/bus_census_thumb.pdf){target="_blank"}
+[![](thumbnails/bus_census_thumb.png)](https://jtkeller29.github.io/portfolio/fullsize/bus_census.pdf){target="_blank"}
